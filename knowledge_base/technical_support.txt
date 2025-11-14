@@ -1,0 +1,33 @@
+Technical Support and IT Resources
+
+1. Help Desk
+   - Email: support@company.com
+   - Phone: 1-800-TECH-HELP
+   - Hours: Monday-Friday, 8:00 AM - 8:00 PM
+   - Emergency support: Available 24/7 for critical issues
+
+2. Software Access
+   - Microsoft 365 suite available to all employees
+   - Slack for team communication
+   - Jira for project management
+   - GitHub Enterprise for code repositories
+   - Figma for design work
+
+3. Hardware
+   - MacBook Pro or Windows laptop provided
+   - External monitor available upon request
+   - Keyboard, mouse, and accessories
+   - Replacement cycle: Every 3 years
+
+4. VPN Setup
+   - Download VPN client from internal portal
+   - Use company credentials to connect
+   - Required for accessing internal systems remotely
+   - Contact IT if experiencing connection issues
+
+5. Common Issues
+   - Password reset: Use self-service portal or contact help desk
+   - Software installation: Submit request through IT portal
+   - Network problems: Check VPN connection first
+   - Email issues: Verify account settings and storage quota
+
