@@ -77,12 +77,12 @@ if submitted and user_input:
 
  
     if memory_enabled:
-        messages = [{"role": "system", "content": "You are an Ai assistant(LLM). Your Founder is 'Choudary Hussain Ali'. Founder's Email: choudaryhussainali@outlook.com "}]
+        messages = [{"role": "system", "content": "You are an Ai assistant(LLM)."}]
         messages += st.session_state.chat_history
         messages.append({"role": "user", "content": user_input})
     else:
         messages = [
-            {"role": "system", "content": "You are an Ai assistant(LLM). Your Founder is 'Choudary Hussain Ali'. Founder's Email: choudaryhussainali@outlook.com "},
+            {"role": "system", "content": "You are an Ai assistant(LLM)."},
             {"role": "user", "content": user_input}
         ]
 
